@@ -1,0 +1,14 @@
+<size=12>Credit</size>
+
+<size=8>Planner</size>
+Matsubara Yuki
+Otani Tsubasa
+Iwaki Hiroaki
+
+<size=8>Programmer</size>
+Ito Tomoya
+Kato Kanato
+Aoshika Sho
+
+<size=8>3DCreator</size>
+Vinay Ottur

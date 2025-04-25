@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8050800276520491471
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2921800118607522325}
+  - component: {fileID: 58043554796656441}
+  m_Layer: 0
+  m_Name: InGameUtility
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2921800118607522325
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8050800276520491471}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &58043554796656441
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8050800276520491471}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a1f47655925f424b97cc2941e40feb2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _bloodPoolDecal:
+  - {fileID: 6996763505160417875, guid: a9326bc51af08fa48993f7ef78afad79, type: 3}
+  - {fileID: 6996763505160417875, guid: 4c231a177019d7042be348cbf666f3a0, type: 3}
+  - {fileID: 6996763505160417875, guid: bf3e0f8dad5fad24cafa5ce9cadd4ff9, type: 3}
+  - {fileID: 6996763505160417875, guid: b2826533a47000c4b84caf9dd30b76ac, type: 3}
+  - {fileID: 6996763505160417875, guid: 1ce2d0d187c74d54dbcdcf6b197b94cc, type: 3}

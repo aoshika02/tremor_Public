@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f64e82c31533973429ecabab61fac132, type: 3}
+  m_Name: ItemEventData
+  m_EditorClassIdentifier: 
+  DataList:
+  - ItemEventType: 2
+    ItemEventName: 2
+    ItemNameKey: Tutorial_GetItemEvent_Name_RequestForm
+    Texture2D: {fileID: 2800000, guid: ca8c11cf6e71d184f8b573b09b2d23f1, type: 3}
+    TextKey:
+    - Tutorial_GetItemEvent_Text_RequestForm_1
+    - Tutorial_GetItemEvent_Text_RequestForm_2
+    - Tutorial_GetItemEvent_Text_RequestForm_3
+    - Tutorial_GetItemEvent_Text_RequestForm_4
+    - Tutorial_GetItemEvent_Text_RequestForm_5
+    - Tutorial_GetItemEvent_Text_RequestForm_6
+  - ItemEventType: 2
+    ItemEventName: 3
+    ItemNameKey: Tutorial_GetItemEvent_Name_NewsPaper
+    Texture2D: {fileID: 2800000, guid: 41c464f411915e44bb2211e78d8e92a1, type: 3}
+    TextKey:
+    - Tutorial_GetItemEvent_Text_NewsPaper_1
+    - Tutorial_GetItemEvent_Text_NewsPaper_2
+    - Tutorial_GetItemEvent_Text_NewsPaper_3
+    - Tutorial_GetItemEvent_Text_NewsPaper_4
+    - Tutorial_GetItemEvent_Text_NewsPaper_5
+    - Tutorial_GetItemEvent_Text_NewsPaper_6
+  - ItemEventType: 0
+    ItemEventName: 4
+    ItemNameKey: Tutorial_GetItemEvent_Name_Flashlight
+    Texture2D: {fileID: 2800000, guid: db052d10e4f236241a789dba781d7d21, type: 3}
+    TextKey: []
+  - ItemEventType: 0
+    ItemEventName: 5
+    ItemNameKey: InGame_GetItemEvent_Name_Saw_Hand
+    Texture2D: {fileID: 2800000, guid: 80530412e1e94d64fa055b6dfc37b906, type: 3}
+    TextKey: []
+  - ItemEventType: 0
+    ItemEventName: 6
+    ItemNameKey: InGame_GetItemEvent_Name_Saw_Blade
+    Texture2D: {fileID: 2800000, guid: 7acf1b246058e03409f42d1a7afee670, type: 3}
+    TextKey: []
+  - ItemEventType: 0
+    ItemEventName: 7
+    ItemNameKey: InGame_GetItemEvent_Name_Saw
+    Texture2D: {fileID: 2800000, guid: 23d6b7d3a9ca91a448b55aff7844ae7f, type: 3}
+    TextKey: []
+  - ItemEventType: 2
+    ItemEventName: 8
+    ItemNameKey: InGame_GetItemEvent_Name_Quiz_Memo
+    Texture2D: {fileID: 2800000, guid: cd5383582670ca34698e143b751fe98b, type: 3}
+    TextKey:
+    - InGame_GetItemEvent_Text_Quiz_Memo_1
+    - InGame_GetItemEvent_Text_Quiz_Memo_2
+    - InGame_GetItemEvent_Text_Quiz_Memo_3
+  - ItemEventType: 0
+    ItemEventName: 9
+    ItemNameKey: InGame_GetItemEvent_Name_MusicRoom_GetKey
+    Texture2D: {fileID: 2800000, guid: 47c893f036bde3044ba8df323a5f674c, type: 3}
+    TextKey: []
+  - ItemEventType: 0
+    ItemEventName: 10
+    ItemNameKey: InGame_GetItemEvent_Name_PreparationRoom_Cassette
+    Texture2D: {fileID: 2800000, guid: 741f624e338c8374a80b52b336d46136, type: 3}
+    TextKey: []

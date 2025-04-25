@@ -1,0 +1,887 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f44a156f1637ef4780432d55d07b461, type: 3}
+  m_Name: SEClips
+  m_EditorClassIdentifier: 
+  SEClipList:
+  - SEType: 0
+    Clip: {fileID: 8300000, guid: 2f6009219f6fc7b44ab8c9bf7dce79a3, type: 3}
+    Is3D: 1
+    IsHaptics: 1
+    HapticsPriority: 0
+    amptixGUID: ac33c78f7e51f544091641ad6510a8ba
+    AudioVolumeType: 0
+    Amptix: {fileID: 102900000, guid: ac33c78f7e51f544091641ad6510a8ba, type: 3}
+  - SEType: 1
+    Clip: {fileID: 8300000, guid: 011dbe025902142459a27243958af205, type: 3}
+    Is3D: 1
+    IsHaptics: 1
+    HapticsPriority: 0
+    amptixGUID: 8ef82007c1fa66840ade902360fdc744
+    AudioVolumeType: 0
+    Amptix: {fileID: 102900000, guid: 8ef82007c1fa66840ade902360fdc744, type: 3}
+  - SEType: 2
+    Clip: {fileID: 8300000, guid: df58b03f07ddf9349b2344bebdcd5790, type: 3}
+    Is3D: 1
+    IsHaptics: 1
+    HapticsPriority: 0
+    amptixGUID: 5a0fb9c8f3af5604ca4a2d40a89892c6
+    AudioVolumeType: 0
+    Amptix: {fileID: 102900000, guid: 5a0fb9c8f3af5604ca4a2d40a89892c6, type: 3}
+  - SEType: 3
+    Clip: {fileID: 8300000, guid: fed542d988fdda141a5a424c8583b80a, type: 3}
+    Is3D: 1
+    IsHaptics: 1
+    HapticsPriority: 0
+    amptixGUID: 4a072b1c321513240b0297326b4fece7
+    AudioVolumeType: 0
+    Amptix: {fileID: 102900000, guid: 4a072b1c321513240b0297326b4fece7, type: 3}
+  - SEType: 4
+    Clip: {fileID: 8300000, guid: 1df0295b63568294fa936d892808787a, type: 3}
+    Is3D: 1
+    IsHaptics: 0
+    HapticsPriority: 0
+    amptixGUID: bf33f4543bfdfc442bca8856c22ab5e6
+    AudioVolumeType: 0
+    Amptix: {fileID: 0}
+  - SEType: 5
+    Clip: {fileID: 8300000, guid: cbef8867700b4714c9900e482092b6df, type: 3}
+    Is3D: 1
+    IsHaptics: 0
+    HapticsPriority: 0
+    amptixGUID: bf33f4543bfdfc442bca8856c22ab5e6
+    AudioVolumeType: 0
+    Amptix: {fileID: 0}
+  - SEType: 6
+    Clip: {fileID: 8300000, guid: 858995e2921ab164eb80f139cfa26532, type: 3}
+    Is3D: 1
+    IsHaptics: 0
+    HapticsPriority: 0
+    amptixGUID: bf33f4543bfdfc442bca8856c22ab5e6
+    AudioVolumeType: 0
+    Amptix: {fileID: 0}
+  - SEType: 7
+    Clip: {fileID: 8300000, guid: 6d9ec288045027c4494b76d61a7fa37e, type: 3}
+    Is3D: 1
+    IsHaptics: 0
+    HapticsPriority: 0
+    amptixGUID: bf33f4543bfdfc442bca8856c22ab5e6
+    AudioVolumeType: 0
+    Amptix: {fileID: 0}
+  - SEType: 8
+    Clip: {fileID: 8300000, guid: 59c27c5316b9ab940b9704c82c99395d, type: 3}
+    Is3D: 1
+    IsHaptics: 0
+    HapticsPriority: 0
+    amptixGUID: c907fea4a7e0cbb4cbbe3a6c424bed58
+    AudioVolumeType: 0
+    Amptix: {fileID: 0}
+  - SEType: 9
+    Clip: {fileID: 8300000, guid: a3f723f454c7f534ea9d20dd058a01c8, type: 3}
+    Is3D: 1
+    IsHaptics: 0
+    HapticsPriority: 0
+    amptixGUID: bf33f4543bfdfc442bca8856c22ab5e6
+    AudioVolumeType: 0
+    Amptix: {fileID: 0}
+  - SEType: 10
+    Clip: {fileID: 8300000, guid: e49f317780454724d804898a6502587d, type: 3}
+    Is3D: 1
+    IsHaptics: 0
+    HapticsPriority: 0
+    amptixGUID: ca48efb5dab98914ebb6f745954b141b
+    AudioVolumeType: 0
+    Amptix: {fileID: 0}
+  - SEType: 11
+    Clip: {fileID: 8300000, guid: e4f326f55de67cb4d980caf20a608079, type: 3}
+    Is3D: 1
+    IsHaptics: 0
+    HapticsPriority: 0
+    amptixGUID: ca48efb5dab98914ebb6f745954b141b
+    AudioVolumeType: 0
+    Amptix: {fileID: 0}
+  - SEType: 12
+    Clip: {fileID: 8300000, guid: 50d88271b330c2c4985a30afc6b99e58, type: 3}
+    Is3D: 1
+    IsHaptics: 0
+    HapticsPriority: 0
+    amptixGUID: ca48efb5dab98914ebb6f745954b141b
+    AudioVolumeType: 0
+    Amptix: {fileID: 0}
+  - SEType: 13
+    Clip: {fileID: 8300000, guid: bcad7604f41b568458670e0c42f03a85, type: 3}
+    Is3D: 1
+    IsHaptics: 0
+    HapticsPriority: 0
+    amptixGUID: ca48efb5dab98914ebb6f745954b141b
+    AudioVolumeType: 0
+    Amptix: {fileID: 0}
+  - SEType: 14
+    Clip: {fileID: 8300000, guid: 731107c13a25ef84ea64a6114408f384, type: 3}
+    Is3D: 1
+    IsHaptics: 0
+    HapticsPriority: 0
+    amptixGUID: f7fddf4a4a39ee74a8cdf0a9ea6ea8a5
+    AudioVolumeType: 0
+    Amptix: {fileID: 0}
+  - SEType: 15
+    Clip: {fileID: 8300000, guid: 9bc7c856cf365df44908275313904096, type: 3}
+    Is3D: 1
+    IsHaptics: 0
+    HapticsPriority: 0
+    amptixGUID: 
+    AudioVolumeType: 0
+    Amptix: {fileID: 0}
+  - SEType: 16
+    Clip: {fileID: 8300000, guid: 9c427e294aa38684cb7d5031073ea838, type: 3}
+    Is3D: 1
+    IsHaptics: 0
+    HapticsPriority: 0
+    amptixGUID: 
+    AudioVolumeType: 0
+    Amptix: {fileID: 0}
+  - SEType: 17
+    Clip: {fileID: 8300000, guid: 3abba5288d50f8b4ebb02aac211fa942, type: 3}
+    Is3D: 1
+    IsHaptics: 0
+    HapticsPriority: 0
+    amptixGUID: 
+    AudioVolumeType: 0
+    Amptix: {fileID: 0}
+  - SEType: 18
+    Clip: {fileID: 8300000, guid: f4dc0a5d6a2498047b84d643fa2fc048, type: 3}
+    Is3D: 1
+    IsHaptics: 0
+    HapticsPriority: 0
+    amptixGUID: 
+    AudioVolumeType: 0
+    Amptix: {fileID: 0}
+  - SEType: 19
+    Clip: {fileID: 8300000, guid: c74a1339c20520e479625904ae7b34bc, type: 3}
+    Is3D: 1
+    IsHaptics: 0
+    HapticsPriority: 0
+    amptixGUID: 2e613969d107e26458948cb04976ba35
+    AudioVolumeType: 0
+    Amptix: {fileID: 0}
+  - SEType: 20
+    Clip: {fileID: 8300000, guid: f39056f12dd004145b4b8461eb3883e7, type: 3}
+    Is3D: 0
+    IsHaptics: 0
+    HapticsPriority: 0
+    amptixGUID: 708488ce527d93c4782d579fa8fdca13
+    AudioVolumeType: 0
+    Amptix: {fileID: 0}
+  - SEType: 21
+    Clip: {fileID: 8300000, guid: 59bba27d17bb87845a5a268982f9d9a9, type: 3}
+    Is3D: 0
+    IsHaptics: 1
+    HapticsPriority: 0
+    amptixGUID: b0f3869224100db47a16c5203c805944
+    AudioVolumeType: 0
+    Amptix: {fileID: 102900000, guid: b0f3869224100db47a16c5203c805944, type: 3}
+  - SEType: 22
+    Clip: {fileID: 8300000, guid: 3bafc070f23c4204595ae4bb34e98736, type: 3}
+    Is3D: 1
+    IsHaptics: 1
+    HapticsPriority: 0
+    amptixGUID: fc5e34dd1e132f744b10afde47d2fcc3
+    AudioVolumeType: 0
+    Amptix: {fileID: 102900000, guid: fc5e34dd1e132f744b10afde47d2fcc3, type: 3}
+  - SEType: 23
+    Clip: {fileID: 8300000, guid: b21138047f13bf943923f0a789960502, type: 3}
+    Is3D: 1
+    IsHaptics: 0
+    HapticsPriority: 0
+    amptixGUID: 4add5b7b077045f4c86db8440e921642
+    AudioVolumeType: 0
+    Amptix: {fileID: 0}
+  - SEType: 24
+    Clip: {fileID: 8300000, guid: 795034feef901b5479127229e5737c65, type: 3}
+    Is3D: 1
+    IsHaptics: 1
+    HapticsPriority: 0
+    amptixGUID: 4a9aac77f7e271c45a8c9203664b86b1
+    AudioVolumeType: 0
+    Amptix: {fileID: 102900000, guid: 4a9aac77f7e271c45a8c9203664b86b1, type: 3}
+  - SEType: 25
+    Clip: {fileID: 8300000, guid: a12cde94cc748804ca4e65290418d095, type: 3}
+    Is3D: 0
+    IsHaptics: 1
+    HapticsPriority: 0
+    amptixGUID: 2f516dbbb0cf4e64d96a89f81a36def0
+    AudioVolumeType: 0
+    Amptix: {fileID: 102900000, guid: 2f516dbbb0cf4e64d96a89f81a36def0, type: 3}
+  - SEType: 26
+    Clip: {fileID: 8300000, guid: a2c01df740389be46b370830e0c5d53c, type: 3}
+    Is3D: 0
+    IsHaptics: 1
+    HapticsPriority: 0
+    amptixGUID: 45006164fbd9c3c4fb879c626a216d14
+    AudioVolumeType: 0
+    Amptix: {fileID: 102900000, guid: 45006164fbd9c3c4fb879c626a216d14, type: 3}
+  - SEType: 27
+    Clip: {fileID: 8300000, guid: aad09c458c1022046bb3ff57dafd8e5f, type: 3}
+    Is3D: 1
+    IsHaptics: 0
+    HapticsPriority: 0
+    amptixGUID: f003a777b15dbf44ca848d0c4a461783
+    AudioVolumeType: 0
+    Amptix: {fileID: 0}
+  - SEType: 28
+    Clip: {fileID: 8300000, guid: 1f2a7d9d9a912e04a91c5cf846f5d5ca, type: 3}
+    Is3D: 1
+    IsHaptics: 0
+    HapticsPriority: 0
+    amptixGUID: a6c25d7a76106764fa8fa85ee0c04181
+    AudioVolumeType: 0
+    Amptix: {fileID: 0}
+  - SEType: 29
+    Clip: {fileID: 8300000, guid: 32b53fd14127902468f0e2c9abd55894, type: 3}
+    Is3D: 1
+    IsHaptics: 0
+    HapticsPriority: 0
+    amptixGUID: 4c82b9626ba6eac44924a7859dedf1e9
+    AudioVolumeType: 0
+    Amptix: {fileID: 0}
+  - SEType: 30
+    Clip: {fileID: 8300000, guid: f71d2fe935b47d3468ac37c80f17f4f2, type: 3}
+    Is3D: 1
+    IsHaptics: 0
+    HapticsPriority: 0
+    amptixGUID: 
+    AudioVolumeType: 0
+    Amptix: {fileID: 0}
+  - SEType: 31
+    Clip: {fileID: 8300000, guid: 616a7b1bed3726242b6554815b16f4be, type: 3}
+    Is3D: 0
+    IsHaptics: 0
+    HapticsPriority: 0
+    amptixGUID: 2ad71e3ad7de94e489498a6ff2d4973f
+    AudioVolumeType: 0
+    Amptix: {fileID: 0}
+  - SEType: 32
+    Clip: {fileID: 8300000, guid: c92e8a82f9940c841b5f5613a5cb8ce5, type: 3}
+    Is3D: 0
+    IsHaptics: 0
+    HapticsPriority: 0
+    amptixGUID: 
+    AudioVolumeType: 0
+    Amptix: {fileID: 0}
+  - SEType: 33
+    Clip: {fileID: 8300000, guid: 93cf45958bfad154e8188be6dbfa9276, type: 3}
+    Is3D: 0
+    IsHaptics: 0
+    HapticsPriority: 0
+    amptixGUID: 4252733730f342746aec96c32c88822f
+    AudioVolumeType: 0
+    Amptix: {fileID: 0}
+  - SEType: 34
+    Clip: {fileID: 8300000, guid: 97130c9676debdd488f9a388cab34deb, type: 3}
+    Is3D: 0
+    IsHaptics: 0
+    HapticsPriority: 0
+    amptixGUID: 3b17c5fcad9b248449918586760c9405
+    AudioVolumeType: 0
+    Amptix: {fileID: 0}
+  - SEType: 35
+    Clip: {fileID: 8300000, guid: 3b0782a3c0e4f2d4ba4cc60ea2e2e26a, type: 3}
+    Is3D: 1
+    IsHaptics: 0
+    HapticsPriority: 0
+    amptixGUID: 
+    AudioVolumeType: 0
+    Amptix: {fileID: 0}
+  - SEType: 36
+    Clip: {fileID: 8300000, guid: a296dd52272304341a2f3aec340ba881, type: 3}
+    Is3D: 0
+    IsHaptics: 0
+    HapticsPriority: 0
+    amptixGUID: b537b2988cade3a469435628a2649eb4
+    AudioVolumeType: 0
+    Amptix: {fileID: 0}
+  - SEType: 37
+    Clip: {fileID: 8300000, guid: 7a641abc731ae74438850fcf36be0641, type: 3}
+    Is3D: 1
+    IsHaptics: 0
+    HapticsPriority: 0
+    amptixGUID: 597dddfe54964f640a38036e253cf7af
+    AudioVolumeType: 0
+    Amptix: {fileID: 0}
+  - SEType: 38
+    Clip: {fileID: 8300000, guid: 74cacfe26a1f5894ba2c90308f914863, type: 3}
+    Is3D: 1
+    IsHaptics: 0
+    HapticsPriority: 0
+    amptixGUID: 4352ca3341e12404580b8bdc51d9f076
+    AudioVolumeType: 0
+    Amptix: {fileID: 0}
+  - SEType: 39
+    Clip: {fileID: 8300000, guid: a8b10640a6fcec740b49230a82a58c30, type: 3}
+    Is3D: 0
+    IsHaptics: 1
+    HapticsPriority: 0
+    amptixGUID: f712258ad27fb644a9da0aa42c1a5429
+    AudioVolumeType: 0
+    Amptix: {fileID: 102900000, guid: f712258ad27fb644a9da0aa42c1a5429, type: 3}
+  - SEType: 40
+    Clip: {fileID: 8300000, guid: 82c43bcf9e6d14845b3acab064c4c47b, type: 3}
+    Is3D: 0
+    IsHaptics: 0
+    HapticsPriority: 0
+    amptixGUID: b79a100105e2318418b40741d9a9c704
+    AudioVolumeType: 0
+    Amptix: {fileID: 0}
+  - SEType: 41
+    Clip: {fileID: 8300000, guid: a205af662d92d3d4fb02e995e815b4cd, type: 3}
+    Is3D: 0
+    IsHaptics: 0
+    HapticsPriority: 0
+    amptixGUID: b784f65f024d17842ad4e231d3ffe06c
+    AudioVolumeType: 0
+    Amptix: {fileID: 0}
+  - SEType: 42
+    Clip: {fileID: 8300000, guid: c05f94aa707b56a499d117a369c3f148, type: 3}
+    Is3D: 0
+    IsHaptics: 0
+    HapticsPriority: 0
+    amptixGUID: 9b57c5a9f58361945ab42949c1f46187
+    AudioVolumeType: 0
+    Amptix: {fileID: 0}
+  - SEType: 201
+    Clip: {fileID: 8300000, guid: 2ae8753f1461d5a40bfe649aa67cefca, type: 3}
+    Is3D: 1
+    IsHaptics: 0
+    HapticsPriority: 0
+    amptixGUID: 
+    AudioVolumeType: 0
+    Amptix: {fileID: 0}
+  - SEType: 202
+    Clip: {fileID: 8300000, guid: b4377c5323e0c7a4d99e406a61c3560d, type: 3}
+    Is3D: 1
+    IsHaptics: 0
+    HapticsPriority: 0
+    amptixGUID: 
+    AudioVolumeType: 0
+    Amptix: {fileID: 0}
+  - SEType: 203
+    Clip: {fileID: 8300000, guid: fc89ac6d78cd64a438695ff8bd784e42, type: 3}
+    Is3D: 1
+    IsHaptics: 0
+    HapticsPriority: 0
+    amptixGUID: 
+    AudioVolumeType: 0
+    Amptix: {fileID: 0}
+  - SEType: 204
+    Clip: {fileID: 8300000, guid: 61d4fdaa10869744a9b81e41141bd378, type: 3}
+    Is3D: 1
+    IsHaptics: 0
+    HapticsPriority: 0
+    amptixGUID: 
+    AudioVolumeType: 0
+    Amptix: {fileID: 0}
+  - SEType: 205
+    Clip: {fileID: 8300000, guid: b065975fbdfd3a84a91347c5f138326f, type: 3}
+    Is3D: 1
+    IsHaptics: 0
+    HapticsPriority: 0
+    amptixGUID: 
+    AudioVolumeType: 0
+    Amptix: {fileID: 0}
+  - SEType: 43
+    Clip: {fileID: 8300000, guid: 5ede21a8fea2b83408f9cdbbe8762e6e, type: 3}
+    Is3D: 1
+    IsHaptics: 0
+    HapticsPriority: 0
+    amptixGUID: bc32e1d756dea8744a0af04108a2dfdf
+    AudioVolumeType: 0
+    Amptix: {fileID: 0}
+  - SEType: 44
+    Clip: {fileID: 8300000, guid: 22ecdbf9abd24f84398c8abceafef6ee, type: 3}
+    Is3D: 1
+    IsHaptics: 0
+    HapticsPriority: 0
+    amptixGUID: bc32e1d756dea8744a0af04108a2dfdf
+    AudioVolumeType: 0
+    Amptix: {fileID: 0}
+  - SEType: 45
+    Clip: {fileID: 8300000, guid: 0c26f5f5bb4107a408d7f61c60038207, type: 3}
+    Is3D: 0
+    IsHaptics: 0
+    HapticsPriority: 0
+    amptixGUID: 91b2a5f42098845488058f9e9a2c16d6
+    AudioVolumeType: 0
+    Amptix: {fileID: 0}
+  - SEType: 46
+    Clip: {fileID: 8300000, guid: 5dbf9426beb261d449e9a7ccf788c0b4, type: 3}
+    Is3D: 1
+    IsHaptics: 0
+    HapticsPriority: 0
+    amptixGUID: eb690c9990677a54885457d693188ef5
+    AudioVolumeType: 0
+    Amptix: {fileID: 0}
+  - SEType: 47
+    Clip: {fileID: 8300000, guid: 5e8c1ae5c616ce74983498837f5a1285, type: 3}
+    Is3D: 1
+    IsHaptics: 1
+    HapticsPriority: 0
+    amptixGUID: ce19172669639ff488a23e10bb97de94
+    AudioVolumeType: 0
+    Amptix: {fileID: 102900000, guid: ce19172669639ff488a23e10bb97de94, type: 3}
+  - SEType: 48
+    Clip: {fileID: 8300000, guid: 312b4c02cb95342499550bf59f1167a9, type: 3}
+    Is3D: 1
+    IsHaptics: 1
+    HapticsPriority: 0
+    amptixGUID: ce19172669639ff488a23e10bb97de94
+    AudioVolumeType: 0
+    Amptix: {fileID: 102900000, guid: ce19172669639ff488a23e10bb97de94, type: 3}
+  - SEType: 49
+    Clip: {fileID: 8300000, guid: 01e846c1fb95f8045ab1a9fbd4ad989f, type: 3}
+    Is3D: 1
+    IsHaptics: 1
+    HapticsPriority: 0
+    amptixGUID: 011a7bacf4c124e409a4374763095130
+    AudioVolumeType: 0
+    Amptix: {fileID: 102900000, guid: 011a7bacf4c124e409a4374763095130, type: 3}
+  - SEType: 50
+    Clip: {fileID: 8300000, guid: 0ec6b75b9fae09c4fa5696c5dbb50273, type: 3}
+    Is3D: 1
+    IsHaptics: 0
+    HapticsPriority: 0
+    amptixGUID: 
+    AudioVolumeType: 0
+    Amptix: {fileID: 0}
+  - SEType: 51
+    Clip: {fileID: 8300000, guid: f5261ce5033312241964a120a661021d, type: 3}
+    Is3D: 1
+    IsHaptics: 0
+    HapticsPriority: 0
+    amptixGUID: 
+    AudioVolumeType: 0
+    Amptix: {fileID: 0}
+  - SEType: 52
+    Clip: {fileID: 8300000, guid: 33ce36a008d91d146afa5f3ebb1cb171, type: 3}
+    Is3D: 1
+    IsHaptics: 0
+    HapticsPriority: 0
+    amptixGUID: 
+    AudioVolumeType: 0
+    Amptix: {fileID: 0}
+  - SEType: 53
+    Clip: {fileID: 8300000, guid: 0cf1ebdf072f1d64fb96a181f715b2a4, type: 3}
+    Is3D: 1
+    IsHaptics: 0
+    HapticsPriority: 0
+    amptixGUID: 
+    AudioVolumeType: 0
+    Amptix: {fileID: 0}
+  - SEType: 54
+    Clip: {fileID: 8300000, guid: 5b20484433ad7174ea7c6f1067f2389b, type: 3}
+    Is3D: 1
+    IsHaptics: 0
+    HapticsPriority: 0
+    amptixGUID: 
+    AudioVolumeType: 0
+    Amptix: {fileID: 0}
+  - SEType: 55
+    Clip: {fileID: 8300000, guid: 2cb78df585685df49b3d93b53cb8347f, type: 3}
+    Is3D: 1
+    IsHaptics: 0
+    HapticsPriority: 0
+    amptixGUID: 
+    AudioVolumeType: 0
+    Amptix: {fileID: 0}
+  - SEType: 206
+    Clip: {fileID: 8300000, guid: f8aad717df282c441b7040f3666b3154, type: 3}
+    Is3D: 1
+    IsHaptics: 0
+    HapticsPriority: 0
+    amptixGUID: 0d498d62207b6de4e8fcce7b02b1df7b
+    AudioVolumeType: 0
+    Amptix: {fileID: 0}
+  - SEType: 207
+    Clip: {fileID: 8300000, guid: 2a83a9ef7a3174442b244d02b4ff531b, type: 3}
+    Is3D: 1
+    IsHaptics: 0
+    HapticsPriority: 0
+    amptixGUID: 50b72e10bdd2d0a41b376ee9388bc96a
+    AudioVolumeType: 0
+    Amptix: {fileID: 0}
+  - SEType: 56
+    Clip: {fileID: 8300000, guid: 5982fdf617ad5684980c3753dafe0b63, type: 3}
+    Is3D: 0
+    IsHaptics: 1
+    HapticsPriority: 0
+    amptixGUID: fc2e6fb0eab2ed145a7ccfabd19b9887
+    AudioVolumeType: 0
+    Amptix: {fileID: 102900000, guid: fc2e6fb0eab2ed145a7ccfabd19b9887, type: 3}
+  - SEType: 57
+    Clip: {fileID: 8300000, guid: 419df4e46f45c9740958a58d31f97658, type: 3}
+    Is3D: 0
+    IsHaptics: 1
+    HapticsPriority: 0
+    amptixGUID: bd70462f8d7709f458fca933e1eb4632
+    AudioVolumeType: 0
+    Amptix: {fileID: 102900000, guid: bd70462f8d7709f458fca933e1eb4632, type: 3}
+  - SEType: 58
+    Clip: {fileID: 8300000, guid: 2850c6b38d387f3459be1881b0418fe2, type: 3}
+    Is3D: 0
+    IsHaptics: 1
+    HapticsPriority: 0
+    amptixGUID: 9338c8fda52645a4590aef9c8ecd50c4
+    AudioVolumeType: 0
+    Amptix: {fileID: 102900000, guid: 9338c8fda52645a4590aef9c8ecd50c4, type: 3}
+  - SEType: 60
+    Clip: {fileID: 8300000, guid: 469691081c0c9f44c95fcf092d785559, type: 3}
+    Is3D: 0
+    IsHaptics: 1
+    HapticsPriority: 0
+    amptixGUID: 83c0059146906cf478c1eb271e648d04
+    AudioVolumeType: 0
+    Amptix: {fileID: 102900000, guid: 83c0059146906cf478c1eb271e648d04, type: 3}
+  - SEType: 59
+    Clip: {fileID: 8300000, guid: f719145135f9e5d4c975d0376fe69e4a, type: 3}
+    Is3D: 0
+    IsHaptics: 1
+    HapticsPriority: 0
+    amptixGUID: 2d938e89a51f665468d0b2d1e7d5f8a9
+    AudioVolumeType: 0
+    Amptix: {fileID: 102900000, guid: 2d938e89a51f665468d0b2d1e7d5f8a9, type: 3}
+  - SEType: 61
+    Clip: {fileID: 8300000, guid: e8979616eb0e9354e96d520cea7833df, type: 3}
+    Is3D: 0
+    IsHaptics: 1
+    HapticsPriority: 0
+    amptixGUID: bf3f32ba74329b64abe09ba1e5eb508d
+    AudioVolumeType: 0
+    Amptix: {fileID: 102900000, guid: bf3f32ba74329b64abe09ba1e5eb508d, type: 3}
+  - SEType: 62
+    Clip: {fileID: 8300000, guid: c416c3317b228d54ea66135a54b7b841, type: 3}
+    Is3D: 0
+    IsHaptics: 1
+    HapticsPriority: 0
+    amptixGUID: 45006164fbd9c3c4fb879c626a216d14
+    AudioVolumeType: 0
+    Amptix: {fileID: 102900000, guid: 45006164fbd9c3c4fb879c626a216d14, type: 3}
+  - SEType: 63
+    Clip: {fileID: 8300000, guid: 67969ca42ec36a54ab6eb319813f1256, type: 3}
+    Is3D: 0
+    IsHaptics: 0
+    HapticsPriority: 0
+    amptixGUID: 
+    AudioVolumeType: 0
+    Amptix: {fileID: 0}
+  - SEType: 64
+    Clip: {fileID: 8300000, guid: 0c298b657b078ea4f995de8d88c38d0c, type: 3}
+    Is3D: 1
+    IsHaptics: 0
+    HapticsPriority: 0
+    amptixGUID: 
+    AudioVolumeType: 0
+    Amptix: {fileID: 0}
+  - SEType: 65
+    Clip: {fileID: 8300000, guid: 7d0dec507e675fd459748b74a42a4ccb, type: 3}
+    Is3D: 1
+    IsHaptics: 0
+    HapticsPriority: 0
+    amptixGUID: 
+    AudioVolumeType: 0
+    Amptix: {fileID: 0}
+  - SEType: 66
+    Clip: {fileID: 8300000, guid: 2a8cd3b4dff1ad341aee6072f30f7bc4, type: 3}
+    Is3D: 1
+    IsHaptics: 0
+    HapticsPriority: 0
+    amptixGUID: 
+    AudioVolumeType: 0
+    Amptix: {fileID: 0}
+  - SEType: 67
+    Clip: {fileID: 8300000, guid: 3d324a1d65cf4a048b8a46c8b676e22a, type: 3}
+    Is3D: 1
+    IsHaptics: 1
+    HapticsPriority: 0
+    amptixGUID: 6c956b3a62112d3488b0786cff2aa6b5
+    AudioVolumeType: 0
+    Amptix: {fileID: 102900000, guid: 6c956b3a62112d3488b0786cff2aa6b5, type: 3}
+  - SEType: 68
+    Clip: {fileID: 8300000, guid: 6798d2478692ffe458bcc19dc51271a2, type: 3}
+    Is3D: 1
+    IsHaptics: 0
+    HapticsPriority: 0
+    amptixGUID: 
+    AudioVolumeType: 0
+    Amptix: {fileID: 0}
+  - SEType: 69
+    Clip: {fileID: 8300000, guid: 74eb5abea286ff544a3ccd3d63b6b992, type: 3}
+    Is3D: 1
+    IsHaptics: 0
+    HapticsPriority: 0
+    amptixGUID: 
+    AudioVolumeType: 0
+    Amptix: {fileID: 0}
+  - SEType: 70
+    Clip: {fileID: 8300000, guid: ecd90392495fb13488011af2a56d2366, type: 3}
+    Is3D: 1
+    IsHaptics: 0
+    HapticsPriority: 0
+    amptixGUID: 
+    AudioVolumeType: 0
+    Amptix: {fileID: 0}
+  - SEType: 71
+    Clip: {fileID: 8300000, guid: 718bf0d48b9592e429c6ef4a56344de6, type: 3}
+    Is3D: 1
+    IsHaptics: 0
+    HapticsPriority: 0
+    amptixGUID: 
+    AudioVolumeType: 0
+    Amptix: {fileID: 0}
+  - SEType: 72
+    Clip: {fileID: 8300000, guid: e2ff4f704b4e8304db1ca4c98c6c7946, type: 3}
+    Is3D: 1
+    IsHaptics: 0
+    HapticsPriority: 0
+    amptixGUID: 
+    AudioVolumeType: 0
+    Amptix: {fileID: 0}
+  - SEType: 73
+    Clip: {fileID: 8300000, guid: f7d937b7877f8224e85a4c39fd9ffd37, type: 3}
+    Is3D: 1
+    IsHaptics: 1
+    HapticsPriority: 0
+    amptixGUID: 3853973b4672a3347923d28a06da2075
+    AudioVolumeType: 0
+    Amptix: {fileID: 102900000, guid: 3853973b4672a3347923d28a06da2075, type: 3}
+  - SEType: 74
+    Clip: {fileID: 8300000, guid: c2b5d891ccf695d45b450461f492b4f1, type: 3}
+    Is3D: 1
+    IsHaptics: 1
+    HapticsPriority: 0
+    amptixGUID: dbac136101cb4294296dc7a6816e25cf
+    AudioVolumeType: 0
+    Amptix: {fileID: 102900000, guid: dbac136101cb4294296dc7a6816e25cf, type: 3}
+  - SEType: 77
+    Clip: {fileID: 8300000, guid: 065464bd050b8ef43a561e1d72384b6c, type: 3}
+    Is3D: 1
+    IsHaptics: 0
+    HapticsPriority: 0
+    amptixGUID: 
+    AudioVolumeType: 0
+    Amptix: {fileID: 0}
+  - SEType: 75
+    Clip: {fileID: 8300000, guid: 5ba6a8ffe7e8cad4db561ee6d6426e65, type: 3}
+    Is3D: 1
+    IsHaptics: 0
+    HapticsPriority: 0
+    amptixGUID: 
+    AudioVolumeType: 0
+    Amptix: {fileID: 0}
+  - SEType: 76
+    Clip: {fileID: 8300000, guid: 67f89082e3a06c94c94d38f379bc7644, type: 3}
+    Is3D: 1
+    IsHaptics: 0
+    HapticsPriority: 0
+    amptixGUID: 
+    AudioVolumeType: 0
+    Amptix: {fileID: 0}
+  - SEType: 78
+    Clip: {fileID: 8300000, guid: 21bac82c8363aa44989c4f00335ff80e, type: 3}
+    Is3D: 1
+    IsHaptics: 1
+    HapticsPriority: 0
+    amptixGUID: f6a9801f417d5eb4991460ec7b77c651
+    AudioVolumeType: 0
+    Amptix: {fileID: 102900000, guid: f6a9801f417d5eb4991460ec7b77c651, type: 3}
+  - SEType: 79
+    Clip: {fileID: 8300000, guid: 6f5de1312b9a47f49859ad5998b29d4b, type: 3}
+    Is3D: 0
+    IsHaptics: 1
+    HapticsPriority: 0
+    amptixGUID: 1aedbfd7a8d8d4447b62d35e19472fcb
+    AudioVolumeType: 0
+    Amptix: {fileID: 102900000, guid: 1aedbfd7a8d8d4447b62d35e19472fcb, type: 3}
+  - SEType: 80
+    Clip: {fileID: 8300000, guid: 34c7b712a0064a5439fda2fac0277ca7, type: 3}
+    Is3D: 0
+    IsHaptics: 1
+    HapticsPriority: 0
+    amptixGUID: 16e6581a5230fa741bc71fa9c5081328
+    AudioVolumeType: 0
+    Amptix: {fileID: 102900000, guid: 16e6581a5230fa741bc71fa9c5081328, type: 3}
+  - SEType: 81
+    Clip: {fileID: 8300000, guid: 73f5fe9e7960c95409f23c6a212b5d49, type: 3}
+    Is3D: 1
+    IsHaptics: 1
+    HapticsPriority: 0
+    amptixGUID: 4cbd11bb2a8e57441a1f1f6ed98f72f1
+    AudioVolumeType: 0
+    Amptix: {fileID: 102900000, guid: 4cbd11bb2a8e57441a1f1f6ed98f72f1, type: 3}
+  - SEType: 82
+    Clip: {fileID: 8300000, guid: 847dcd5f6413aee4397f2bb78e942b0c, type: 3}
+    Is3D: 1
+    IsHaptics: 0
+    HapticsPriority: 0
+    amptixGUID: 
+    AudioVolumeType: 0
+    Amptix: {fileID: 0}
+  - SEType: 83
+    Clip: {fileID: 8300000, guid: 631db09228874ef4db919e30fd559694, type: 3}
+    Is3D: 0
+    IsHaptics: 0
+    HapticsPriority: 0
+    amptixGUID: 
+    AudioVolumeType: 0
+    Amptix: {fileID: 0}
+  - SEType: 84
+    Clip: {fileID: 8300000, guid: c08c3f3470e1a0f41958ac409f5ae62e, type: 3}
+    Is3D: 0
+    IsHaptics: 0
+    HapticsPriority: 0
+    amptixGUID: 
+    AudioVolumeType: 0
+    Amptix: {fileID: 0}
+  - SEType: 85
+    Clip: {fileID: 8300000, guid: 2f31a2597a547e9438595d302b60a656, type: 3}
+    Is3D: 0
+    IsHaptics: 0
+    HapticsPriority: 0
+    amptixGUID: 
+    AudioVolumeType: 0
+    Amptix: {fileID: 0}
+  - SEType: 86
+    Clip: {fileID: 8300000, guid: 6947172583da0424bb54b234c43bb420, type: 3}
+    Is3D: 0
+    IsHaptics: 0
+    HapticsPriority: 0
+    amptixGUID: 
+    AudioVolumeType: 0
+    Amptix: {fileID: 0}
+  - SEType: 87
+    Clip: {fileID: 8300000, guid: 43b61bfc9e136b944a0d73e159ea5c16, type: 3}
+    Is3D: 0
+    IsHaptics: 0
+    HapticsPriority: 0
+    amptixGUID: 
+    AudioVolumeType: 0
+    Amptix: {fileID: 0}
+  - SEType: 88
+    Clip: {fileID: 8300000, guid: 23f95a32f55a0ad47953dcf7aebbe66f, type: 3}
+    Is3D: 1
+    IsHaptics: 1
+    HapticsPriority: 0
+    amptixGUID: 38719c90796581b48ba85b08b833998c
+    AudioVolumeType: 0
+    Amptix: {fileID: 102900000, guid: 38719c90796581b48ba85b08b833998c, type: 3}
+  - SEType: 89
+    Clip: {fileID: 8300000, guid: 430303d7d149cc84282305f2cab73a07, type: 3}
+    Is3D: 1
+    IsHaptics: 1
+    HapticsPriority: 0
+    amptixGUID: 4e613ab3b5dc0f94a9de9025e0787806
+    AudioVolumeType: 0
+    Amptix: {fileID: 102900000, guid: 4e613ab3b5dc0f94a9de9025e0787806, type: 3}
+  - SEType: 90
+    Clip: {fileID: 8300000, guid: 6dcb6e68a1ce1db45b504c0b96a6caa1, type: 3}
+    Is3D: 1
+    IsHaptics: 0
+    HapticsPriority: 0
+    amptixGUID: 4e613ab3b5dc0f94a9de9025e0787806
+    AudioVolumeType: 0
+    Amptix: {fileID: 102900000, guid: 4e613ab3b5dc0f94a9de9025e0787806, type: 3}
+  - SEType: 91
+    Clip: {fileID: 8300000, guid: 64226b86d23ac134593c65981b12f8e3, type: 3}
+    Is3D: 0
+    IsHaptics: 0
+    HapticsPriority: 0
+    amptixGUID: 4e613ab3b5dc0f94a9de9025e0787806
+    AudioVolumeType: 0
+    Amptix: {fileID: 102900000, guid: 4e613ab3b5dc0f94a9de9025e0787806, type: 3}
+  - SEType: 92
+    Clip: {fileID: 8300000, guid: a3d1e2ff4b7a68446bf73939887349c4, type: 3}
+    Is3D: 0
+    IsHaptics: 0
+    HapticsPriority: 0
+    amptixGUID: 4e613ab3b5dc0f94a9de9025e0787806
+    AudioVolumeType: 0
+    Amptix: {fileID: 102900000, guid: 4e613ab3b5dc0f94a9de9025e0787806, type: 3}
+  - SEType: 93
+    Clip: {fileID: 8300000, guid: ae243420d0e109f43ab9f426b27eab76, type: 3}
+    Is3D: 0
+    IsHaptics: 0
+    HapticsPriority: 0
+    amptixGUID: 4e613ab3b5dc0f94a9de9025e0787806
+    AudioVolumeType: 0
+    Amptix: {fileID: 102900000, guid: 4e613ab3b5dc0f94a9de9025e0787806, type: 3}
+  - SEType: 94
+    Clip: {fileID: 8300000, guid: 06d23fda136be8b4d9f308949d0a80cd, type: 3}
+    Is3D: 0
+    IsHaptics: 0
+    HapticsPriority: 0
+    amptixGUID: 4e613ab3b5dc0f94a9de9025e0787806
+    AudioVolumeType: 0
+    Amptix: {fileID: 102900000, guid: 4e613ab3b5dc0f94a9de9025e0787806, type: 3}
+  - SEType: 95
+    Clip: {fileID: 8300000, guid: 79feaff75cf0d5145a2a24b7cfa0507f, type: 3}
+    Is3D: 0
+    IsHaptics: 0
+    HapticsPriority: 0
+    amptixGUID: 4e613ab3b5dc0f94a9de9025e0787806
+    AudioVolumeType: 0
+    Amptix: {fileID: 102900000, guid: 4e613ab3b5dc0f94a9de9025e0787806, type: 3}
+  - SEType: 96
+    Clip: {fileID: 8300000, guid: 3a1fffdf5ea8ce242be3e4ac350d5b1b, type: 3}
+    Is3D: 0
+    IsHaptics: 0
+    HapticsPriority: 0
+    amptixGUID: 4e613ab3b5dc0f94a9de9025e0787806
+    AudioVolumeType: 0
+    Amptix: {fileID: 102900000, guid: 4e613ab3b5dc0f94a9de9025e0787806, type: 3}
+  - SEType: 97
+    Clip: {fileID: 8300000, guid: 89fdf745d17508f44b153d1df91648a2, type: 3}
+    Is3D: 0
+    IsHaptics: 0
+    HapticsPriority: 0
+    amptixGUID: 4e613ab3b5dc0f94a9de9025e0787806
+    AudioVolumeType: 0
+    Amptix: {fileID: 102900000, guid: 4e613ab3b5dc0f94a9de9025e0787806, type: 3}
+  - SEType: 98
+    Clip: {fileID: 8300000, guid: 769f1d53b24e70d468d9d30b2db22f63, type: 3}
+    Is3D: 0
+    IsHaptics: 0
+    HapticsPriority: 0
+    amptixGUID: 4e613ab3b5dc0f94a9de9025e0787806
+    AudioVolumeType: 0
+    Amptix: {fileID: 102900000, guid: 4e613ab3b5dc0f94a9de9025e0787806, type: 3}
+  - SEType: 99
+    Clip: {fileID: 8300000, guid: dc0643e3dead6a54698519c847a88d49, type: 3}
+    Is3D: 0
+    IsHaptics: 0
+    HapticsPriority: 0
+    amptixGUID: 4e613ab3b5dc0f94a9de9025e0787806
+    AudioVolumeType: 0
+    Amptix: {fileID: 102900000, guid: 4e613ab3b5dc0f94a9de9025e0787806, type: 3}
+  - SEType: 100
+    Clip: {fileID: 8300000, guid: be57dcb32b3748e4395f99283ccf10f2, type: 3}
+    Is3D: 0
+    IsHaptics: 0
+    HapticsPriority: 0
+    amptixGUID: 4e613ab3b5dc0f94a9de9025e0787806
+    AudioVolumeType: 0
+    Amptix: {fileID: 102900000, guid: 4e613ab3b5dc0f94a9de9025e0787806, type: 3}
+  - SEType: 101
+    Clip: {fileID: 8300000, guid: 1a0eca7ec09dbcd45863d41d39ee9c05, type: 3}
+    Is3D: 0
+    IsHaptics: 1
+    HapticsPriority: 0
+    amptixGUID: 4001e10173810d840acee2f80cd26369
+    AudioVolumeType: 0
+    Amptix: {fileID: 102900000, guid: 4001e10173810d840acee2f80cd26369, type: 3}

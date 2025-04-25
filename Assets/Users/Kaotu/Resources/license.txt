@@ -1,0 +1,163 @@
+<size=12>Asset</size>
+------
+
+<size=8>UniTask</size>
+
+The MIT License (MIT)
+
+Copyright (c) 2019 Yoshifumi Kawai / Cysharp, Inc.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+-----
+
+<size=8>UniRx</size>
+
+The MIT License (MIT)
+
+Copyright (c) 2018 Yoshifumi Kawai
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+-----
+<size=8>otologic</size>
+<size=8>魔王魂</size>
+<size=8>On-Jin ～音人～</size>
+<size=8>笑い声　ひだちー素材館</size>
+
+
+----
+<size=8>TELOPICT.com</size>
+https://telopict.com/
+
+-----
+
+<size=8>OtoLogic</size>
+
+CC BY 4.0
+
+Copyright © 2012-2024 OtoLogic
+
+・利用者を問いません（個人・団体・法人、国籍や所在地など）
+・利用するメディアの種類を問いません（動画・ラジオ・ゲームなど）
+・権利者と連絡を取る必要がありません（許可申請・使用報告など）
+・営利目的の利用も問題ありません（商業・収益化利用など）
+・利用する作品の内容を問いません（年齢制限のある表現など）
+・素材の改変も問題ありません（編集・加工・編曲など）
+
+利用条件は「クレジット表記をすれば無料」とシンプルです。
+
+当サイトの素材を使って、あなたが制作した作品を公開するときに、
+「OtoLogicの素材を使用している」ことが伝わる表示（権利者表記）
+を一緒につけてください。
+
+
+-----
+
+<size=8>Pocket sound</size>
+
+ご利用規約
+ポケットサウンドの音素材は無料でご利用頂けますが、ご利用の際には作品でのクレジット表記、またはポケットサウンドへのリンクをお願いします。
+
+クレジット表記とは、下記のようにポケットサウンドの素材を使っていると明記して頂く事です。
+ウェブサイトをお持ちでない場合は、Twitter での紹介でも可能です。
+
+■ウェブサイトへのリンクは下記をコピーペーストで使えます。
+<a href="https://pocket-se.info/">ポケットサウンド/効果音素材</a>
+
+免責事項
+当サイトは、音素材そのものの著作権を放棄したわけではありません。
+当サイトの音素材の利用により生じたトラブル・損害に対して責任を負いません。
+利用可能範囲
+商用利用：OK
+音素材の加工：OK
+Unityゲームでの利用：OK
+18禁ゲームでの利用：OK
+動画での音素材利用：OK
+BGM素材の演奏：OK
+YouTube収益化：OK ※
+即売会等で頒布する作品での利用：OK
+館内BGMとして使いたい：OK（有償）
+
+リンクが不要なケース
+個人的に使う分にはリンクは不要ですが、大勢の人が使う場合は必要です。
+
+自分の携帯電話の着メロにしたい
+ダウンロードしてローカルで聴くだけ
+自分のPCの起動音等に使いたい
+有償利用の場合
+月額プランに加入の場合
+禁止事項
+音素材への直リンク
+BGM素材のみをそのまま動画にしてYoutube等へのアップロード
+音素材そのものの二次配布・転売
+有償利用申請をせずにクレジット表記の未記載
+※動画作品に当サイトのBGM素材を利用する事は OK ですが、BGM素材のみをアップする事は許可していません。適当に写真（静止画）を付けても同様です。
+※演奏の場合、奏者によるコンテンツとなりますので ”そのまま” にはあたらず禁止事項には該当しません。
+
+尚、この規約は予告なく変更される場合があります。
+2023/05/31 版
+
+-----
+
+<size=8>Vita-chi-Sozaikan</size>
+
+
+■利用規約
+　　　　ゲーム・動画・アプリ・ネットラジオ・ボイスドラマ・楽曲等のオリジナル創作物への素材として、規約範囲内であれば
+　　　　非商用・商用にかかわらず 無料でご使用いただけます。 （販売ページの素材集のみ有料）
+　　　　加工も自由です。　以下のルールをよく読んでからご利用ください。
+
+■ご使用の際はクレジット記載をお願いします。
+記載場所は任意の場所
+（ゲームの場合付属ドキュメント、エンドロールなど、動画作品は作品内または概要欄など）
+書き方はお任せします。　記載例：　声　びたちー素材館
+
+例外として声素材の文化祭おばけ屋敷での使用など、書く所が無いローカル行事は記載無しでの無料使用ＯＫです。
+ゲーム・動画・音楽など公開のある作品でクレジット記載をしたくない場合は有料のオーディオストックをご利用ください。
+　
+■使用報告は任意ですが、していただけると励みになります♪事後報告も歓迎☆　ＢＢＳやツイッターからどうぞ。
+
+■アダルト作品への素材の使用はご遠慮ください。詳細はこちら→■
+　
+■素材そのものの無断での二次配布・転載アップロード・販売は×です。
+　（書籍やゲーム開発ソフトへ素材として収録したい場合は事前にメールからご相談ください。
+
+■ コンテスト参加作品への素材使用は、双方の規約に沿っていれば問題ありません。
+
+■その他わからない事があればお気軽にご連絡ください。（返信の必要なものはツイッターが早いです。DM解放しています）
+
+あとよく間違えられるのですが…
+ぴたちー素材館じゃなくてびたちー素材館　です！　てんてんの濁点です；；

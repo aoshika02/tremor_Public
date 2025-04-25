@@ -1,0 +1,1269 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5115db528675f254a8f7770ea22ae5eb, type: 3}
+  m_Name: MessageEventData
+  m_EditorClassIdentifier: 
+  DataList:
+  - MessageEventName: 1
+    MessageKey:
+    - DisplayMessageKey: Tutorial_TextEvent_FootStepSound_1
+      InOrder: 0
+      IsClear: 0
+      IsFadeBackGround: 0
+      DisplayTime: 0
+      ClearTime: 0
+      IsTalk: 0
+      IsTalkEnd: 0
+      CharaNameKey: 
+      IsPlaySE: 0
+      SEType: 0
+      IsPlayBGM: 0
+      IsStopBGM: 0
+      SEVolume: 1
+      BGMVolume: 1
+      BGMType: 0
+      IsWaitSE: 0
+    - DisplayMessageKey: Tutorial_TextEvent_FootStepSound_2
+      InOrder: 0
+      IsClear: 0
+      IsFadeBackGround: 0
+      DisplayTime: 0
+      ClearTime: 0
+      IsTalk: 0
+      IsTalkEnd: 0
+      CharaNameKey: 
+      IsPlaySE: 0
+      SEType: 0
+      IsPlayBGM: 0
+      IsStopBGM: 0
+      SEVolume: 1
+      BGMVolume: 1
+      BGMType: 0
+      IsWaitSE: 0
+  - MessageEventName: 2
+    MessageKey:
+    - DisplayMessageKey: InGame_TextEvent_Text_LockedGate
+      InOrder: 0
+      IsClear: 0
+      IsFadeBackGround: 0
+      DisplayTime: 0
+      ClearTime: 0
+      IsTalk: 0
+      IsTalkEnd: 0
+      CharaNameKey: 
+      IsPlaySE: 0
+      SEType: 0
+      IsPlayBGM: 0
+      IsStopBGM: 0
+      SEVolume: 1
+      BGMVolume: 1
+      BGMType: 0
+      IsWaitSE: 0
+  - MessageEventName: 3
+    MessageKey:
+    - DisplayMessageKey: InGame_TextEvent_Text_FrontLatch_1
+      InOrder: 0
+      IsClear: 0
+      IsFadeBackGround: 0
+      DisplayTime: 0
+      ClearTime: 0
+      IsTalk: 0
+      IsTalkEnd: 0
+      CharaNameKey: 
+      IsPlaySE: 0
+      SEType: 0
+      IsPlayBGM: 0
+      IsStopBGM: 0
+      SEVolume: 1
+      BGMVolume: 1
+      BGMType: 0
+      IsWaitSE: 0
+    - DisplayMessageKey: InGame_TextEvent_Text_FrontLatch_2
+      InOrder: 0
+      IsClear: 0
+      IsFadeBackGround: 0
+      DisplayTime: 0
+      ClearTime: 0
+      IsTalk: 0
+      IsTalkEnd: 0
+      CharaNameKey: 
+      IsPlaySE: 0
+      SEType: 0
+      IsPlayBGM: 0
+      IsStopBGM: 0
+      SEVolume: 1
+      BGMVolume: 1
+      BGMType: 0
+      IsWaitSE: 0
+    - DisplayMessageKey: InGame_TextEvent_Text_FrontLatch_3
+      InOrder: 0
+      IsClear: 0
+      IsFadeBackGround: 0
+      DisplayTime: 0
+      ClearTime: 0
+      IsTalk: 0
+      IsTalkEnd: 0
+      CharaNameKey: 
+      IsPlaySE: 0
+      SEType: 0
+      IsPlayBGM: 0
+      IsStopBGM: 0
+      SEVolume: 1
+      BGMVolume: 1
+      BGMType: 0
+      IsWaitSE: 0
+  - MessageEventName: 4
+    MessageKey:
+    - DisplayMessageKey: InGame_TextEvent_Text_QuizEnterRoom_1
+      InOrder: 0
+      IsClear: 0
+      IsFadeBackGround: 0
+      DisplayTime: 0
+      ClearTime: 0
+      IsTalk: 0
+      IsTalkEnd: 0
+      CharaNameKey: 
+      IsPlaySE: 0
+      SEType: 0
+      IsPlayBGM: 0
+      IsStopBGM: 0
+      SEVolume: 1
+      BGMVolume: 1
+      BGMType: 0
+      IsWaitSE: 0
+    - DisplayMessageKey: InGame_TextEvent_Text_QuizEnterRoom_2
+      InOrder: 0
+      IsClear: 0
+      IsFadeBackGround: 0
+      DisplayTime: 0
+      ClearTime: 0
+      IsTalk: 0
+      IsTalkEnd: 0
+      CharaNameKey: 
+      IsPlaySE: 0
+      SEType: 0
+      IsPlayBGM: 0
+      IsStopBGM: 0
+      SEVolume: 1
+      BGMVolume: 1
+      BGMType: 0
+      IsWaitSE: 0
+  - MessageEventName: 6
+    MessageKey:
+    - DisplayMessageKey: InGame_TextEvent_Text_GhostShow_1
+      InOrder: 0
+      IsClear: 0
+      IsFadeBackGround: 0
+      DisplayTime: 0
+      ClearTime: 0
+      IsTalk: 0
+      IsTalkEnd: 0
+      CharaNameKey: 
+      IsPlaySE: 0
+      SEType: 0
+      IsPlayBGM: 0
+      IsStopBGM: 0
+      SEVolume: 1
+      BGMVolume: 1
+      BGMType: 0
+      IsWaitSE: 0
+    - DisplayMessageKey: InGame_TextEvent_Text_GhostShow_2
+      InOrder: 0
+      IsClear: 0
+      IsFadeBackGround: 0
+      DisplayTime: 0
+      ClearTime: 0
+      IsTalk: 0
+      IsTalkEnd: 0
+      CharaNameKey: 
+      IsPlaySE: 0
+      SEType: 0
+      IsPlayBGM: 0
+      IsStopBGM: 0
+      SEVolume: 1
+      BGMVolume: 1
+      BGMType: 0
+      IsWaitSE: 0
+  - MessageEventName: 8
+    MessageKey:
+    - DisplayMessageKey: InGame_TextEvent_Text_QuizStart
+      InOrder: 0
+      IsClear: 0
+      IsFadeBackGround: 0
+      DisplayTime: 0
+      ClearTime: 0
+      IsTalk: 0
+      IsTalkEnd: 0
+      CharaNameKey: 
+      IsPlaySE: 0
+      SEType: 0
+      IsPlayBGM: 0
+      IsStopBGM: 0
+      SEVolume: 1
+      BGMVolume: 1
+      BGMType: 0
+      IsWaitSE: 0
+  - MessageEventName: 9
+    MessageKey:
+    - DisplayMessageKey: InGame_TextEvent_Text_CryGirlBefore_1
+      InOrder: 0
+      IsClear: 0
+      IsFadeBackGround: 0
+      DisplayTime: 0
+      ClearTime: 0
+      IsTalk: 0
+      IsTalkEnd: 0
+      CharaNameKey: 
+      IsPlaySE: 0
+      SEType: 0
+      IsPlayBGM: 0
+      IsStopBGM: 0
+      SEVolume: 1
+      BGMVolume: 1
+      BGMType: 0
+      IsWaitSE: 0
+    - DisplayMessageKey: InGame_TextEvent_Text_CryGirlBefore_2
+      InOrder: 0
+      IsClear: 0
+      IsFadeBackGround: 0
+      DisplayTime: 0
+      ClearTime: 0
+      IsTalk: 0
+      IsTalkEnd: 0
+      CharaNameKey: 
+      IsPlaySE: 0
+      SEType: 0
+      IsPlayBGM: 0
+      IsStopBGM: 0
+      SEVolume: 1
+      BGMVolume: 1
+      BGMType: 0
+      IsWaitSE: 0
+    - DisplayMessageKey: InGame_TextEvent_Text_CryGirlBefore_3
+      InOrder: 0
+      IsClear: 0
+      IsFadeBackGround: 0
+      DisplayTime: 0
+      ClearTime: 0
+      IsTalk: 0
+      IsTalkEnd: 0
+      CharaNameKey: 
+      IsPlaySE: 0
+      SEType: 0
+      IsPlayBGM: 0
+      IsStopBGM: 0
+      SEVolume: 1
+      BGMVolume: 1
+      BGMType: 0
+      IsWaitSE: 0
+  - MessageEventName: 9
+    MessageKey:
+    - DisplayMessageKey: InGame_TextEvent_Text_CryGirlBefore_1
+      InOrder: 0
+      IsClear: 0
+      IsFadeBackGround: 0
+      DisplayTime: 0
+      ClearTime: 0
+      IsTalk: 0
+      IsTalkEnd: 0
+      CharaNameKey: 
+      IsPlaySE: 0
+      SEType: 0
+      IsPlayBGM: 0
+      IsStopBGM: 0
+      SEVolume: 1
+      BGMVolume: 1
+      BGMType: 0
+      IsWaitSE: 0
+    - DisplayMessageKey: InGame_TextEvent_Text_CryGirlBefore_2
+      InOrder: 0
+      IsClear: 0
+      IsFadeBackGround: 0
+      DisplayTime: 0
+      ClearTime: 0
+      IsTalk: 0
+      IsTalkEnd: 0
+      CharaNameKey: 
+      IsPlaySE: 0
+      SEType: 0
+      IsPlayBGM: 0
+      IsStopBGM: 0
+      SEVolume: 1
+      BGMVolume: 1
+      BGMType: 0
+      IsWaitSE: 0
+    - DisplayMessageKey: InGame_TextEvent_Text_CryGirlBefore_3
+      InOrder: 0
+      IsClear: 0
+      IsFadeBackGround: 0
+      DisplayTime: 0
+      ClearTime: 0
+      IsTalk: 0
+      IsTalkEnd: 0
+      CharaNameKey: 
+      IsPlaySE: 0
+      SEType: 0
+      IsPlayBGM: 0
+      IsStopBGM: 0
+      SEVolume: 1
+      BGMVolume: 1
+      BGMType: 0
+      IsWaitSE: 0
+  - MessageEventName: 10
+    MessageKey:
+    - DisplayMessageKey: InGame_TextEvent_Text_CryGirlAfter_1
+      InOrder: 0
+      IsClear: 0
+      IsFadeBackGround: 0
+      DisplayTime: 0
+      ClearTime: 0
+      IsTalk: 0
+      IsTalkEnd: 0
+      CharaNameKey: 
+      IsPlaySE: 0
+      SEType: 0
+      IsPlayBGM: 0
+      IsStopBGM: 0
+      SEVolume: 1
+      BGMVolume: 1
+      BGMType: 0
+      IsWaitSE: 0
+  - MessageEventName: 11
+    MessageKey:
+    - DisplayMessageKey: InGame_TextEvent_Text_TransformGirl_1
+      InOrder: 0
+      IsClear: 0
+      IsFadeBackGround: 0
+      DisplayTime: 0
+      ClearTime: 0
+      IsTalk: 0
+      IsTalkEnd: 0
+      CharaNameKey: 
+      IsPlaySE: 0
+      SEType: 0
+      IsPlayBGM: 0
+      IsStopBGM: 0
+      SEVolume: 1
+      BGMVolume: 1
+      BGMType: 0
+      IsWaitSE: 0
+    - DisplayMessageKey: InGame_TextEvent_Text_TransformGirl_2
+      InOrder: 0
+      IsClear: 0
+      IsFadeBackGround: 0
+      DisplayTime: 0
+      ClearTime: 0
+      IsTalk: 0
+      IsTalkEnd: 0
+      CharaNameKey: 
+      IsPlaySE: 0
+      SEType: 0
+      IsPlayBGM: 0
+      IsStopBGM: 0
+      SEVolume: 1
+      BGMVolume: 1
+      BGMType: 0
+      IsWaitSE: 0
+  - MessageEventName: 12
+    MessageKey:
+    - DisplayMessageKey: InGame_TextEvent_Text_TransformedGirl_1
+      InOrder: 0
+      IsClear: 0
+      IsFadeBackGround: 0
+      DisplayTime: 0
+      ClearTime: 0
+      IsTalk: 0
+      IsTalkEnd: 0
+      CharaNameKey: 
+      IsPlaySE: 0
+      SEType: 0
+      IsPlayBGM: 0
+      IsStopBGM: 0
+      SEVolume: 1
+      BGMVolume: 1
+      BGMType: 0
+      IsWaitSE: 0
+    - DisplayMessageKey: InGame_TextEvent_Text_TransformedGirl_2
+      InOrder: 0
+      IsClear: 0
+      IsFadeBackGround: 0
+      DisplayTime: 0
+      ClearTime: 0
+      IsTalk: 0
+      IsTalkEnd: 0
+      CharaNameKey: 
+      IsPlaySE: 0
+      SEType: 0
+      IsPlayBGM: 0
+      IsStopBGM: 0
+      SEVolume: 1
+      BGMVolume: 1
+      BGMType: 0
+      IsWaitSE: 0
+  - MessageEventName: 13
+    MessageKey:
+    - DisplayMessageKey: InGame_TextEvent_Text_Quiz_Clear
+      InOrder: 0
+      IsClear: 0
+      IsFadeBackGround: 0
+      DisplayTime: 0
+      ClearTime: 0
+      IsTalk: 0
+      IsTalkEnd: 0
+      CharaNameKey: 
+      IsPlaySE: 0
+      SEType: 0
+      IsPlayBGM: 0
+      IsStopBGM: 0
+      SEVolume: 1
+      BGMVolume: 1
+      BGMType: 0
+      IsWaitSE: 0
+  - MessageEventName: 14
+    MessageKey:
+    - DisplayMessageKey: InGame_TextEvent_Text_QuizHeart_1
+      InOrder: 0
+      IsClear: 0
+      IsFadeBackGround: 0
+      DisplayTime: 0
+      ClearTime: 0
+      IsTalk: 0
+      IsTalkEnd: 0
+      CharaNameKey: 
+      IsPlaySE: 0
+      SEType: 0
+      IsPlayBGM: 0
+      IsStopBGM: 0
+      SEVolume: 1
+      BGMVolume: 1
+      BGMType: 0
+      IsWaitSE: 0
+    - DisplayMessageKey: InGame_TextEvent_Text_QuizHeart_2
+      InOrder: 0
+      IsClear: 0
+      IsFadeBackGround: 0
+      DisplayTime: 0
+      ClearTime: 0
+      IsTalk: 0
+      IsTalkEnd: 0
+      CharaNameKey: 
+      IsPlaySE: 0
+      SEType: 0
+      IsPlayBGM: 0
+      IsStopBGM: 0
+      SEVolume: 1
+      BGMVolume: 1
+      BGMType: 0
+      IsWaitSE: 0
+  - MessageEventName: 15
+    MessageKey:
+    - DisplayMessageKey: InGame_TextEvent_Text_QuizSkull_1
+      InOrder: 0
+      IsClear: 0
+      IsFadeBackGround: 0
+      DisplayTime: 0
+      ClearTime: 0
+      IsTalk: 0
+      IsTalkEnd: 0
+      CharaNameKey: 
+      IsPlaySE: 0
+      SEType: 0
+      IsPlayBGM: 0
+      IsStopBGM: 0
+      SEVolume: 1
+      BGMVolume: 1
+      BGMType: 0
+      IsWaitSE: 0
+    - DisplayMessageKey: InGame_TextEvent_Text_QuizSkull_2
+      InOrder: 0
+      IsClear: 0
+      IsFadeBackGround: 0
+      DisplayTime: 0
+      ClearTime: 0
+      IsTalk: 0
+      IsTalkEnd: 0
+      CharaNameKey: 
+      IsPlaySE: 0
+      SEType: 0
+      IsPlayBGM: 0
+      IsStopBGM: 0
+      SEVolume: 1
+      BGMVolume: 1
+      BGMType: 0
+      IsWaitSE: 0
+  - MessageEventName: 16
+    MessageKey:
+    - DisplayMessageKey: InGame_TextEvent_Text_QuizMiss1
+      InOrder: 0
+      IsClear: 0
+      IsFadeBackGround: 0
+      DisplayTime: 0
+      ClearTime: 0
+      IsTalk: 0
+      IsTalkEnd: 0
+      CharaNameKey: 
+      IsPlaySE: 0
+      SEType: 0
+      IsPlayBGM: 0
+      IsStopBGM: 0
+      SEVolume: 1
+      BGMVolume: 1
+      BGMType: 0
+      IsWaitSE: 0
+  - MessageEventName: 17
+    MessageKey:
+    - DisplayMessageKey: InGame_TextEvent_Text_QuizMiss2
+      InOrder: 0
+      IsClear: 0
+      IsFadeBackGround: 0
+      DisplayTime: 0
+      ClearTime: 0
+      IsTalk: 0
+      IsTalkEnd: 0
+      CharaNameKey: 
+      IsPlaySE: 0
+      SEType: 0
+      IsPlayBGM: 0
+      IsStopBGM: 0
+      SEVolume: 1
+      BGMVolume: 1
+      BGMType: 0
+      IsWaitSE: 0
+  - MessageEventName: 19
+    MessageKey:
+    - DisplayMessageKey: InGame_TextEvent_Text_OpenBox
+      InOrder: 0
+      IsClear: 0
+      IsFadeBackGround: 0
+      DisplayTime: 0
+      ClearTime: 0
+      IsTalk: 0
+      IsTalkEnd: 0
+      CharaNameKey: 
+      IsPlaySE: 0
+      SEType: 0
+      IsPlayBGM: 0
+      IsStopBGM: 0
+      SEVolume: 1
+      BGMVolume: 1
+      BGMType: 0
+      IsWaitSE: 0
+  - MessageEventName: 20
+    MessageKey:
+    - DisplayMessageKey: InGame_TextEvent_Text_ReTakeRadio_1
+      InOrder: 0
+      IsClear: 0
+      IsFadeBackGround: 0
+      DisplayTime: 0
+      ClearTime: 0
+      IsTalk: 0
+      IsTalkEnd: 0
+      CharaNameKey: 
+      IsPlaySE: 0
+      SEType: 0
+      IsPlayBGM: 0
+      IsStopBGM: 0
+      SEVolume: 1
+      BGMVolume: 1
+      BGMType: 0
+      IsWaitSE: 0
+    - DisplayMessageKey: InGame_TextEvent_Text_ReTakeRadio_2
+      InOrder: 0
+      IsClear: 0
+      IsFadeBackGround: 0
+      DisplayTime: 0
+      ClearTime: 0
+      IsTalk: 0
+      IsTalkEnd: 0
+      CharaNameKey: 
+      IsPlaySE: 1
+      SEType: 92
+      IsPlayBGM: 0
+      IsStopBGM: 0
+      SEVolume: 1
+      BGMVolume: 1
+      BGMType: 0
+      IsWaitSE: 1
+    - DisplayMessageKey: InGame_TextEvent_Text_ReTakeRadio_3
+      InOrder: 0
+      IsClear: 0
+      IsFadeBackGround: 0
+      DisplayTime: 0
+      ClearTime: 0
+      IsTalk: 0
+      IsTalkEnd: 0
+      CharaNameKey: 
+      IsPlaySE: 1
+      SEType: 101
+      IsPlayBGM: 1
+      IsStopBGM: 0
+      SEVolume: 1
+      BGMVolume: 1
+      BGMType: 5
+      IsWaitSE: 1
+  - MessageEventName: 21
+    MessageKey:
+    - DisplayMessageKey: InGame_TextEvent_Text_PreparationRoom_NotPeek_1
+      InOrder: 0
+      IsClear: 0
+      IsFadeBackGround: 0
+      DisplayTime: 0
+      ClearTime: 0
+      IsTalk: 0
+      IsTalkEnd: 0
+      CharaNameKey: 
+      IsPlaySE: 0
+      SEType: 0
+      IsPlayBGM: 0
+      IsStopBGM: 0
+      SEVolume: 1
+      BGMVolume: 1
+      BGMType: 0
+      IsWaitSE: 0
+    - DisplayMessageKey: InGame_TextEvent_Text_PreparationRoom_NotPeek_2
+      InOrder: 0
+      IsClear: 0
+      IsFadeBackGround: 0
+      DisplayTime: 0
+      ClearTime: 0
+      IsTalk: 0
+      IsTalkEnd: 0
+      CharaNameKey: 
+      IsPlaySE: 0
+      SEType: 0
+      IsPlayBGM: 0
+      IsStopBGM: 0
+      SEVolume: 1
+      BGMVolume: 1
+      BGMType: 0
+      IsWaitSE: 0
+  - MessageEventName: 22
+    MessageKey:
+    - DisplayMessageKey: InGame_TextEvent_Text_PreparationRoom_NotGetGey
+      InOrder: 0
+      IsClear: 0
+      IsFadeBackGround: 0
+      DisplayTime: 0
+      ClearTime: 0
+      IsTalk: 0
+      IsTalkEnd: 0
+      CharaNameKey: 
+      IsPlaySE: 0
+      SEType: 0
+      IsPlayBGM: 0
+      IsStopBGM: 0
+      SEVolume: 1
+      BGMVolume: 1
+      BGMType: 0
+      IsWaitSE: 0
+  - MessageEventName: 23
+    MessageKey:
+    - DisplayMessageKey: InGame_TextEvent_Text_MusicRoom_GetKey
+      InOrder: 0
+      IsClear: 0
+      IsFadeBackGround: 0
+      DisplayTime: 0
+      ClearTime: 0
+      IsTalk: 0
+      IsTalkEnd: 0
+      CharaNameKey: 
+      IsPlaySE: 0
+      SEType: 0
+      IsPlayBGM: 0
+      IsStopBGM: 0
+      SEVolume: 1
+      BGMVolume: 1
+      BGMType: 0
+      IsWaitSE: 0
+  - MessageEventName: 24
+    MessageKey:
+    - DisplayMessageKey: InGame_TextEvent_Text_LookedPeepHole_1
+      InOrder: 0
+      IsClear: 0
+      IsFadeBackGround: 0
+      DisplayTime: 0
+      ClearTime: 0
+      IsTalk: 0
+      IsTalkEnd: 0
+      CharaNameKey: 
+      IsPlaySE: 0
+      SEType: 0
+      IsPlayBGM: 0
+      IsStopBGM: 0
+      SEVolume: 1
+      BGMVolume: 1
+      BGMType: 0
+      IsWaitSE: 0
+    - DisplayMessageKey: InGame_TextEvent_Text_LookedPeepHole_2
+      InOrder: 0
+      IsClear: 0
+      IsFadeBackGround: 0
+      DisplayTime: 0
+      ClearTime: 0
+      IsTalk: 0
+      IsTalkEnd: 0
+      CharaNameKey: 
+      IsPlaySE: 0
+      SEType: 0
+      IsPlayBGM: 0
+      IsStopBGM: 0
+      SEVolume: 1
+      BGMVolume: 1
+      BGMType: 0
+      IsWaitSE: 0
+  - MessageEventName: 25
+    MessageKey:
+    - DisplayMessageKey: InGame_TextEvent_Text_NotGetCassette
+      InOrder: 0
+      IsClear: 0
+      IsFadeBackGround: 0
+      DisplayTime: 0
+      ClearTime: 0
+      IsTalk: 0
+      IsTalkEnd: 0
+      CharaNameKey: 
+      IsPlaySE: 0
+      SEType: 0
+      IsPlayBGM: 0
+      IsStopBGM: 0
+      SEVolume: 1
+      BGMVolume: 1
+      BGMType: 0
+      IsWaitSE: 0
+  - MessageEventName: 100
+    MessageKey:
+    - DisplayMessageKey: InGame_TextEvent_Text_TakeRadio_1_1_1
+      InOrder: 0
+      IsClear: 0
+      IsFadeBackGround: 0
+      DisplayTime: 0
+      ClearTime: 0
+      IsTalk: 0
+      IsTalkEnd: 0
+      CharaNameKey: 
+      IsPlaySE: 0
+      SEType: 0
+      IsPlayBGM: 0
+      IsStopBGM: 0
+      SEVolume: 1
+      BGMVolume: 1
+      BGMType: 0
+      IsWaitSE: 0
+    - DisplayMessageKey: InGame_TextEvent_Text_TakeRadio_1_1_2
+      InOrder: 0
+      IsClear: 0
+      IsFadeBackGround: 0
+      DisplayTime: 0
+      ClearTime: 0
+      IsTalk: 0
+      IsTalkEnd: 0
+      CharaNameKey: 
+      IsPlaySE: 0
+      SEType: 0
+      IsPlayBGM: 0
+      IsStopBGM: 0
+      SEVolume: 1
+      BGMVolume: 1
+      BGMType: 0
+      IsWaitSE: 0
+    - DisplayMessageKey: InGame_TextEvent_Text_TakeRadio_1_1_3
+      InOrder: 0
+      IsClear: 0
+      IsFadeBackGround: 0
+      DisplayTime: 0
+      ClearTime: 0
+      IsTalk: 0
+      IsTalkEnd: 0
+      CharaNameKey: 
+      IsPlaySE: 0
+      SEType: 0
+      IsPlayBGM: 0
+      IsStopBGM: 0
+      SEVolume: 1
+      BGMVolume: 1
+      BGMType: 0
+      IsWaitSE: 0
+  - MessageEventName: 103
+    MessageKey:
+    - DisplayMessageKey: InGame_TextEvent_Text_TakeRadio_1_2_1
+      InOrder: 0
+      IsClear: 0
+      IsFadeBackGround: 0
+      DisplayTime: 0
+      ClearTime: 0
+      IsTalk: 0
+      IsTalkEnd: 0
+      CharaNameKey: 
+      IsPlaySE: 0
+      SEType: 0
+      IsPlayBGM: 0
+      IsStopBGM: 0
+      SEVolume: 1
+      BGMVolume: 1
+      BGMType: 0
+      IsWaitSE: 0
+    - DisplayMessageKey: InGame_TextEvent_Text_TakeRadio_1_2_2
+      InOrder: 0
+      IsClear: 0
+      IsFadeBackGround: 0
+      DisplayTime: 0
+      ClearTime: 0
+      IsTalk: 0
+      IsTalkEnd: 0
+      CharaNameKey: 
+      IsPlaySE: 1
+      SEType: 92
+      IsPlayBGM: 0
+      IsStopBGM: 0
+      SEVolume: 1
+      BGMVolume: 1
+      BGMType: 0
+      IsWaitSE: 1
+    - DisplayMessageKey: InGame_TextEvent_Text_TakeRadio_1_2_3
+      InOrder: 0
+      IsClear: 0
+      IsFadeBackGround: 0
+      DisplayTime: 0
+      ClearTime: 0
+      IsTalk: 0
+      IsTalkEnd: 0
+      CharaNameKey: 
+      IsPlaySE: 1
+      SEType: 83
+      IsPlayBGM: 1
+      IsStopBGM: 0
+      SEVolume: 1
+      BGMVolume: 1
+      BGMType: 5
+      IsWaitSE: 0
+    - DisplayMessageKey: InGame_TextEvent_Text_TakeRadio_1_2_4
+      InOrder: 0
+      IsClear: 0
+      IsFadeBackGround: 0
+      DisplayTime: 0
+      ClearTime: 0
+      IsTalk: 0
+      IsTalkEnd: 0
+      CharaNameKey: 
+      IsPlaySE: 1
+      SEType: 84
+      IsPlayBGM: 0
+      IsStopBGM: 0
+      SEVolume: 1
+      BGMVolume: 1
+      BGMType: 0
+      IsWaitSE: 0
+    - DisplayMessageKey: InGame_TextEvent_Text_TakeRadio_1_2_5
+      InOrder: 0
+      IsClear: 0
+      IsFadeBackGround: 0
+      DisplayTime: 0
+      ClearTime: 0
+      IsTalk: 0
+      IsTalkEnd: 0
+      CharaNameKey: 
+      IsPlaySE: 1
+      SEType: 85
+      IsPlayBGM: 0
+      IsStopBGM: 0
+      SEVolume: 1
+      BGMVolume: 1
+      BGMType: 0
+      IsWaitSE: 0
+    - DisplayMessageKey: InGame_TextEvent_Text_TakeRadio_1_2_6
+      InOrder: 0
+      IsClear: 0
+      IsFadeBackGround: 0
+      DisplayTime: 0
+      ClearTime: 0
+      IsTalk: 0
+      IsTalkEnd: 0
+      CharaNameKey: 
+      IsPlaySE: 1
+      SEType: 86
+      IsPlayBGM: 0
+      IsStopBGM: 0
+      SEVolume: 1
+      BGMVolume: 1
+      BGMType: 0
+      IsWaitSE: 0
+    - DisplayMessageKey: InGame_TextEvent_Text_TakeRadio_1_2_7
+      InOrder: 0
+      IsClear: 0
+      IsFadeBackGround: 0
+      DisplayTime: 0
+      ClearTime: 0
+      IsTalk: 0
+      IsTalkEnd: 0
+      CharaNameKey: 
+      IsPlaySE: 1
+      SEType: 98
+      IsPlayBGM: 0
+      IsStopBGM: 0
+      SEVolume: 1
+      BGMVolume: 1
+      BGMType: 0
+      IsWaitSE: 0
+    - DisplayMessageKey: InGame_TextEvent_Text_TakeRadio_1_2_8
+      InOrder: 0
+      IsClear: 0
+      IsFadeBackGround: 0
+      DisplayTime: 0
+      ClearTime: 0
+      IsTalk: 0
+      IsTalkEnd: 0
+      CharaNameKey: 
+      IsPlaySE: 0
+      SEType: 0
+      IsPlayBGM: 0
+      IsStopBGM: 1
+      SEVolume: 1
+      BGMVolume: 1
+      BGMType: 5
+      IsWaitSE: 0
+  - MessageEventName: 101
+    MessageKey:
+    - DisplayMessageKey: InGame_TextEvent_Text_TakeRadio_2_1_1
+      InOrder: 0
+      IsClear: 0
+      IsFadeBackGround: 0
+      DisplayTime: 0
+      ClearTime: 0
+      IsTalk: 0
+      IsTalkEnd: 0
+      CharaNameKey: 
+      IsPlaySE: 0
+      SEType: 0
+      IsPlayBGM: 0
+      IsStopBGM: 0
+      SEVolume: 1
+      BGMVolume: 1
+      BGMType: 0
+      IsWaitSE: 0
+  - MessageEventName: 104
+    MessageKey:
+    - DisplayMessageKey: InGame_TextEvent_Text_TakeRadio_2_2_1
+      InOrder: 0
+      IsClear: 0
+      IsFadeBackGround: 0
+      DisplayTime: 0
+      ClearTime: 0
+      IsTalk: 0
+      IsTalkEnd: 0
+      CharaNameKey: 
+      IsPlaySE: 0
+      SEType: 0
+      IsPlayBGM: 0
+      IsStopBGM: 0
+      SEVolume: 1
+      BGMVolume: 1
+      BGMType: 0
+      IsWaitSE: 0
+    - DisplayMessageKey: InGame_TextEvent_Text_TakeRadio_2_2_2
+      InOrder: 0
+      IsClear: 0
+      IsFadeBackGround: 0
+      DisplayTime: 0
+      ClearTime: 0
+      IsTalk: 0
+      IsTalkEnd: 0
+      CharaNameKey: 
+      IsPlaySE: 1
+      SEType: 94
+      IsPlayBGM: 1
+      IsStopBGM: 0
+      SEVolume: 1
+      BGMVolume: 1
+      BGMType: 5
+      IsWaitSE: 0
+    - DisplayMessageKey: InGame_TextEvent_Text_TakeRadio_2_2_3
+      InOrder: 0
+      IsClear: 0
+      IsFadeBackGround: 0
+      DisplayTime: 0
+      ClearTime: 0
+      IsTalk: 0
+      IsTalkEnd: 0
+      CharaNameKey: 
+      IsPlaySE: 1
+      SEType: 95
+      IsPlayBGM: 0
+      IsStopBGM: 0
+      SEVolume: 1
+      BGMVolume: 1
+      BGMType: 0
+      IsWaitSE: 0
+    - DisplayMessageKey: InGame_TextEvent_Text_TakeRadio_2_2_4
+      InOrder: 0
+      IsClear: 0
+      IsFadeBackGround: 0
+      DisplayTime: 0
+      ClearTime: 0
+      IsTalk: 0
+      IsTalkEnd: 0
+      CharaNameKey: 
+      IsPlaySE: 1
+      SEType: 96
+      IsPlayBGM: 0
+      IsStopBGM: 0
+      SEVolume: 1
+      BGMVolume: 1
+      BGMType: 0
+      IsWaitSE: 0
+    - DisplayMessageKey: InGame_TextEvent_Text_TakeRadio_2_2_5
+      InOrder: 0
+      IsClear: 0
+      IsFadeBackGround: 0
+      DisplayTime: 0
+      ClearTime: 0
+      IsTalk: 0
+      IsTalkEnd: 0
+      CharaNameKey: 
+      IsPlaySE: 1
+      SEType: 97
+      IsPlayBGM: 0
+      IsStopBGM: 0
+      SEVolume: 1
+      BGMVolume: 1
+      BGMType: 0
+      IsWaitSE: 0
+    - DisplayMessageKey: InGame_TextEvent_Text_TakeRadio_2_2_6
+      InOrder: 0
+      IsClear: 0
+      IsFadeBackGround: 0
+      DisplayTime: 0
+      ClearTime: 0
+      IsTalk: 0
+      IsTalkEnd: 0
+      CharaNameKey: 
+      IsPlaySE: 1
+      SEType: 98
+      IsPlayBGM: 0
+      IsStopBGM: 0
+      SEVolume: 1
+      BGMVolume: 1
+      BGMType: 0
+      IsWaitSE: 0
+    - DisplayMessageKey: InGame_TextEvent_Text_TakeRadio_2_2_7
+      InOrder: 0
+      IsClear: 0
+      IsFadeBackGround: 0
+      DisplayTime: 0
+      ClearTime: 0
+      IsTalk: 0
+      IsTalkEnd: 0
+      CharaNameKey: 
+      IsPlaySE: 0
+      SEType: 0
+      IsPlayBGM: 0
+      IsStopBGM: 1
+      SEVolume: 1
+      BGMVolume: 1
+      BGMType: 5
+      IsWaitSE: 0
+  - MessageEventName: 102
+    MessageKey:
+    - DisplayMessageKey: InGame_TextEvent_Text_TakeRadio_3_1_1
+      InOrder: 0
+      IsClear: 0
+      IsFadeBackGround: 0
+      DisplayTime: 0
+      ClearTime: 0
+      IsTalk: 0
+      IsTalkEnd: 0
+      CharaNameKey: 
+      IsPlaySE: 0
+      SEType: 0
+      IsPlayBGM: 0
+      IsStopBGM: 0
+      SEVolume: 1
+      BGMVolume: 1
+      BGMType: 0
+      IsWaitSE: 0
+    - DisplayMessageKey: InGame_TextEvent_Text_TakeRadio_3_1_2
+      InOrder: 0
+      IsClear: 0
+      IsFadeBackGround: 0
+      DisplayTime: 0
+      ClearTime: 0
+      IsTalk: 0
+      IsTalkEnd: 0
+      CharaNameKey: 
+      IsPlaySE: 1
+      SEType: 100
+      IsPlayBGM: 0
+      IsStopBGM: 0
+      SEVolume: 1
+      BGMVolume: 1
+      BGMType: 0
+      IsWaitSE: 1
+    - DisplayMessageKey: InGame_TextEvent_Text_TakeRadio_3_1_3
+      InOrder: 0
+      IsClear: 0
+      IsFadeBackGround: 0
+      DisplayTime: 0
+      ClearTime: 0
+      IsTalk: 0
+      IsTalkEnd: 0
+      CharaNameKey: 
+      IsPlaySE: 1
+      SEType: 99
+      IsPlayBGM: 1
+      IsStopBGM: 0
+      SEVolume: 1
+      BGMVolume: 1
+      BGMType: 5
+      IsWaitSE: 0
+    - DisplayMessageKey: InGame_TextEvent_Text_TakeRadio_3_1_4
+      InOrder: 0
+      IsClear: 0
+      IsFadeBackGround: 0
+      DisplayTime: 0
+      ClearTime: 0
+      IsTalk: 0
+      IsTalkEnd: 0
+      CharaNameKey: 
+      IsPlaySE: 1
+      SEType: 101
+      IsPlayBGM: 0
+      IsStopBGM: 1
+      SEVolume: 1
+      BGMVolume: 1
+      BGMType: 5
+      IsWaitSE: 1
+    - DisplayMessageKey: InGame_TextEvent_Text_TakeRadio_3_1_5
+      InOrder: 0
+      IsClear: 0
+      IsFadeBackGround: 0
+      DisplayTime: 0
+      ClearTime: 0
+      IsTalk: 0
+      IsTalkEnd: 0
+      CharaNameKey: 
+      IsPlaySE: 0
+      SEType: 0
+      IsPlayBGM: 0
+      IsStopBGM: 0
+      SEVolume: 1
+      BGMVolume: 1
+      BGMType: 0
+      IsWaitSE: 0
+    - DisplayMessageKey: InGame_TextEvent_Text_TakeRadio_3_1_6
+      InOrder: 0
+      IsClear: 0
+      IsFadeBackGround: 0
+      DisplayTime: 0
+      ClearTime: 0
+      IsTalk: 0
+      IsTalkEnd: 0
+      CharaNameKey: 
+      IsPlaySE: 0
+      SEType: 0
+      IsPlayBGM: 0
+      IsStopBGM: 0
+      SEVolume: 1
+      BGMVolume: 1
+      BGMType: 0
+      IsWaitSE: 0
+  - MessageEventName: 105
+    MessageKey: []
+  - MessageEventName: 26
+    MessageKey:
+    - DisplayMessageKey: InGame_TextEvent_Text_RadioChecked_1
+      InOrder: 0
+      IsClear: 0
+      IsFadeBackGround: 0
+      DisplayTime: 0
+      ClearTime: 0
+      IsTalk: 0
+      IsTalkEnd: 0
+      CharaNameKey: 
+      IsPlaySE: 0
+      SEType: 0
+      IsPlayBGM: 0
+      IsStopBGM: 0
+      SEVolume: 0
+      BGMVolume: 0
+      BGMType: 0
+      IsWaitSE: 0
+    - DisplayMessageKey: InGame_TextEvent_Text_RadioChecked_2
+      InOrder: 0
+      IsClear: 0
+      IsFadeBackGround: 0
+      DisplayTime: 0
+      ClearTime: 0
+      IsTalk: 0
+      IsTalkEnd: 0
+      CharaNameKey: 
+      IsPlaySE: 0
+      SEType: 0
+      IsPlayBGM: 0
+      IsStopBGM: 0
+      SEVolume: 0
+      BGMVolume: 0
+      BGMType: 0
+      IsWaitSE: 0
+  - MessageEventName: 27
+    MessageKey:
+    - DisplayMessageKey: InGame_TextEvent_Text_SawSynthesis_1
+      InOrder: 0
+      IsClear: 0
+      IsFadeBackGround: 0
+      DisplayTime: 0
+      ClearTime: 0
+      IsTalk: 0
+      IsTalkEnd: 0
+      CharaNameKey: 
+      IsPlaySE: 0
+      SEType: 0
+      IsPlayBGM: 0
+      IsStopBGM: 0
+      SEVolume: 0
+      BGMVolume: 0
+      BGMType: 0
+      IsWaitSE: 0
+    - DisplayMessageKey: InGame_TextEvent_Text_SawSynthesis_2
+      InOrder: 0
+      IsClear: 0
+      IsFadeBackGround: 0
+      DisplayTime: 0
+      ClearTime: 0
+      IsTalk: 0
+      IsTalkEnd: 0
+      CharaNameKey: 
+      IsPlaySE: 0
+      SEType: 0
+      IsPlayBGM: 0
+      IsStopBGM: 0
+      SEVolume: 0
+      BGMVolume: 0
+      BGMType: 0
+      IsWaitSE: 0
+  - MessageEventName: 28
+    MessageKey:
+    - DisplayMessageKey: InGame_TextEvent_Text_GateOpened_1
+      InOrder: 0
+      IsClear: 0
+      IsFadeBackGround: 0
+      DisplayTime: 0
+      ClearTime: 0
+      IsTalk: 0
+      IsTalkEnd: 0
+      CharaNameKey: 
+      IsPlaySE: 0
+      SEType: 0
+      IsPlayBGM: 0
+      IsStopBGM: 0
+      SEVolume: 0
+      BGMVolume: 0
+      BGMType: 0
+      IsWaitSE: 0

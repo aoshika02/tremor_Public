@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e6d538462a499a4a91d8e846e57945d, type: 3}
+  m_Name: BGMClips
+  m_EditorClassIdentifier: 
+  BGMClipList:
+  - BGMType: 1
+    Clip: {fileID: 8300000, guid: 3555781005813dc418d98d18e591b86d, type: 3}
+    Is3D: 0
+    IsHaptics: 0
+    HapticsPriority: 0
+    amptixGUID: 
+    AudioVolumeType: 3
+    AmptixEffectData: {fileID: 0}
+  - BGMType: 2
+    Clip: {fileID: 8300000, guid: 898f8006799dd6f4894a7591a4a1ba10, type: 3}
+    Is3D: 0
+    IsHaptics: 0
+    HapticsPriority: 0
+    amptixGUID: 
+    AudioVolumeType: 3
+    AmptixEffectData: {fileID: 0}
+  - BGMType: 3
+    Clip: {fileID: 8300000, guid: 6dcc57fbb34bd924cb3dc18a1ca81678, type: 3}
+    Is3D: 0
+    IsHaptics: 0
+    HapticsPriority: 0
+    amptixGUID: 
+    AudioVolumeType: 3
+    AmptixEffectData: {fileID: 0}
+  - BGMType: 4
+    Clip: {fileID: 8300000, guid: dbdbbafbeddefa046bbb5e43a8c5ed00, type: 3}
+    Is3D: 1
+    IsHaptics: 0
+    HapticsPriority: 0
+    amptixGUID: 
+    AudioVolumeType: 2
+    AmptixEffectData: {fileID: 0}
+  - BGMType: 5
+    Clip: {fileID: 8300000, guid: 43b61bfc9e136b944a0d73e159ea5c16, type: 3}
+    Is3D: 0
+    IsHaptics: 0
+    HapticsPriority: 0
+    amptixGUID: 
+    AudioVolumeType: 3
+    AmptixEffectData: {fileID: 0}
+  - BGMType: 6
+    Clip: {fileID: 8300000, guid: 43b61bfc9e136b944a0d73e159ea5c16, type: 3}
+    Is3D: 0
+    IsHaptics: 0
+    HapticsPriority: 0
+    amptixGUID: 
+    AudioVolumeType: 2
+    AmptixEffectData: {fileID: 0}

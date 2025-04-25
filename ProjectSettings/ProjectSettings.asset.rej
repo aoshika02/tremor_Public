@@ -1,0 +1,12 @@
+diff a/ProjectSettings/ProjectSettings.asset b/ProjectSettings/ProjectSettings.asset	(rejected hunks)
+@@ -144,6 +144,10 @@
+    - {fileID: 11400000, guid: 1636d9d284067d8418d16b60e3256f44, type: 2}
+    - {fileID: 2656308175457333454, guid: 02ecbf7142b2ddb4e83f2ae5a508741b, type: 2}
+    - {fileID: 11400000, guid: 192a97610d224b948834a2f657cda7e3, type: 2}
+++<<<<<<< Updated upstream
+++=======
++   - {fileID: 11400000, guid: 9e7be553448fa2546aea5752021cbcf7, type: 2}
+++>>>>>>> Stashed changes
+    metroInputSource: 0
+    wsaTransparentSwapchain: 0
+    m_HolographicPauseOnTrackingLoss: 1
